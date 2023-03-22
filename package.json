@@ -12,5 +12,8 @@
   "devDependencies": {
     "nodemon": "^2.0.21",
     "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
